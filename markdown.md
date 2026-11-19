@@ -88,3 +88,5 @@ A | B | A XOR B
 # Ejemplo de emojis
 
 :+1: :octocat: 😁 🤘 🐫
+
+### Y eso es todo, amigos!
