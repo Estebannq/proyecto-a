@@ -49,9 +49,16 @@ Este es un ejemplo _**ejemplo de combinacion**_
   * Europa
   * Io
 * Saturno
-    * Titan 
+    * Titan
+
+ # Ejemplo de una checklist: Obtener el pasaporte
 - [x] Sacar la cita
 - [x] Pagar los derechos
 - [ ] Asistir a la cita y tomarse la foto 
 
+# Ejemplo de citacion
 
+Mis estudiantes dijeron: 
+> Profe, ya compro GTA VI?
+> Por que no?
+> Si es un juego buenísimo!!
