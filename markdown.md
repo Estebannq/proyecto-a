@@ -39,6 +39,17 @@ Este es un ejemplo _**ejemplo de combinacion**_
 4. Maradona
 5. Esteban
 
+# Ejemplo de una lista con varios niveles: Planetas y sus lunas
+
+* Tierra
+  * Luna
+* Jupiter
+  * Calisto
+  * Ganimedes
+  * Europa
+  * Io
+* Saturno
+    * Titan 
 
 
 
