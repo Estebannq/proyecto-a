@@ -50,6 +50,8 @@ Este es un ejemplo _**ejemplo de combinacion**_
   * Io
 * Saturno
     * Titan 
-
+- [x] Sacar la cita
+- [x] Pagar los derechos
+- [ ] Asistir a la cita y tomarse la foto 
 
 
