@@ -32,6 +32,13 @@ Este es un ejemplo _**ejemplo de combinacion**_
 * Rojo
 * Verde
 
+#  Ejemplo de una lista numerada: Top 5 jugadores de futbol
+1. Cristiano Ronaldo
+2. Messi
+3. Pele
+4. Maradona
+5. Esteban
+
 
 
 
